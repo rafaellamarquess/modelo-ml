@@ -1,0 +1,11 @@
+# Arquivos de ambiente
+.env
+
+# Outros arquivos comuns
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.log
